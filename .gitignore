@@ -6,3 +6,4 @@ package.xml
 docs/_build
 /.vagrant
 build
+.DS_Store
